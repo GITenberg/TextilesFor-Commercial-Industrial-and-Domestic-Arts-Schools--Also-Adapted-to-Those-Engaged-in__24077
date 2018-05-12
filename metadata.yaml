@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26226'
     url: http://www.gutenberg.org/2009/agents/26226
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24077#TextilesFor-Commercial-Industrial-and-Domestic-Arts-Schools--Also-Adapted-to-Those-Engaged-in_
 gutenberg_bookshelf:
 - Technology
 - Manufacturing
