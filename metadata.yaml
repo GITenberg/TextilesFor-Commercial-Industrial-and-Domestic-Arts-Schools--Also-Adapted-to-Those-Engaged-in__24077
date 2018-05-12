@@ -1,0 +1,31 @@
+_repo: TextilesFor-Commercial-Industrial-and-Domestic-Arts-Schools--Also-Adapted-to-Those-Engaged-in__24077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dooley, William H. (William Henry)
+    birthdate: 1880
+    gutenberg_agent_id: '26226'
+    url: http://www.gutenberg.org/2009/agents/26226
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2007-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Textile industry'
+- !lcc 'TS'
+- !lcsh 'Textile fabrics'
+title: "Textiles, for Commercial, Industrial, and Domestic Arts Schools\r\nAlso Adapted\
+  \ to Those Engaged in Wholesale and Retail Dry Goods, Wool, Cotton, and Dressmaker's\
+  \ Trades"
+url: http://www.gutenberg.org/ebooks/24077
